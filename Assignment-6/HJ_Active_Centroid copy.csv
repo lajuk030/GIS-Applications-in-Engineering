@@ -1,0 +1,5 @@
+Name,Type,Aquifer,Longitude,Latitude
+Well_1,Well Vertex,Evangeline Aquifer,-94.210556,30.240834
+Well_2,Well Vertex,Chicot Aquifer,-94.196389,30.221944
+Well_3,Well Vertex,Evangeline Aquifer,-94.191945,30.207778
+Triangle_Centroid,Centroid,Computed Centroid,-94.19962999999998,30.22351866666667

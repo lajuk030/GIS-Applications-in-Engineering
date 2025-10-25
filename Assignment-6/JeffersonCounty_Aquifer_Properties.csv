@@ -1,0 +1,4 @@
+Aquifer,Layer,Hydraulic_Conductivity_min_m_per_day,Hydraulic_Conductivity_max_m_per_day,Hydraulic_Conductivity_mean_m_per_day,Specific_Yield,Porosity,Recharge_fraction_to_layer,Dominant_Use
+Chicot,2,0.63,47.59,13.29,0.2,0.3,0.42,Municipal + Industrial wells near Beaumont
+Evangeline,3,0.58,21.72,5.04,0.2,0.28,0.42,Municipal + Industrial wells near Beaumont
+Jasper,5,0.24,10.83,2.08,0.2,0.25,0.42,Deep confined aquifer withdrawals
